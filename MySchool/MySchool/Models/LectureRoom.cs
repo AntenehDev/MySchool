@@ -6,5 +6,6 @@ namespace MySchool.Models
 {
     class LectureRoom
     {
+        public string LR { get; set; }
     }
 }

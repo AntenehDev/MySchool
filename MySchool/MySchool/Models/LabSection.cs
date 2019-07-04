@@ -6,5 +6,8 @@ namespace MySchool.Models
 {
     class LabSection
     {
+        public string BatchNo { get; set; }
+        public string Groups { get; set; }
+        public string NameIDs { get; set; }
     }
 }

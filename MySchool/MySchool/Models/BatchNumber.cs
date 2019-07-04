@@ -6,5 +6,6 @@ namespace MySchool.Models
 {
     class BatchNumber
     {
+        public string BatchNo { get; set; }
     }
 }

@@ -6,5 +6,8 @@ namespace MySchool.Models
 {
     class LectureSection
     {
+        public string BatchNo { get; set; }
+        public string Sections { get; set; }
+        public string NameIDs { get; set; }
     }
 }
